@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/tv/epg.xml"
-# 央视高清 (18个)
+# 央视高清 (19个)
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视",CCTV1
 http://192.168.2.1:9999/udp/233.50.201.118:5140
 
