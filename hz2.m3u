@@ -54,7 +54,7 @@ http://192.168.2.1:9999/udp/233.50.201.63:5140
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视",CCTV16
 http://192.168.2.1:9999/udp/233.50.201.192:5140
 
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" tvg-chno="17" group-title="央视高清",CCTV17
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" tvg-chno="17" group-title="央视高清",CCTV17
 http://192.168.2.1:9999/udp/233.50.200.113:5140
 # 卫视高清 (33个)
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/zhejiang.png" group-title="卫视",浙江卫视
