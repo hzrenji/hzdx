@@ -1,191 +1,319 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 
-############ 央视频道 ############
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV-1综合" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
-http://192.168.2.1:9999/rtp/233.50.201.118:5140
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV-1综合" tvg-logo="http://yourhost/iptv-logo/CCTV1.png",CCTV-1综合
+http://192.168.2.1:9999/udp/233.50.201.118:5140
 
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV-2财经" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经
-http://192.168.2.1:9999/rtp/233.50.201.119:5140
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV-2财经" tvg-logo="http://yourhost/iptv-logo/CCTV2.png",CCTV-2财经
+http://192.168.2.1:9999/udp/233.50.201.119:5140
 
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV-3综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3综艺
-http://192.168.2.1:9999/rtp/233.50.201.196:5140
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV-3综艺" tvg-logo="http://yourhost/iptv-logo/CCTV3.png",CCTV-3综艺
+http://192.168.2.1:9999/udp/233.50.201.196:5140
 
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV-4中文国际" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4中文国际
-http://192.168.2.1:9999/rtp/233.50.200.101:5140
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV-4中文国际" tvg-logo="http://yourhost/iptv-logo/CCTV4.png",CCTV-4中文国际
+http://192.168.2.1:9999/udp/233.50.200.101:5140
 
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV-5体育" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5体育
-http://192.168.2.1:9999/rtp/233.50.201.197:5140
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV-5体育" tvg-logo="http://yourhost/iptv-logo/CCTV5.png",CCTV-5体育
+http://192.168.2.1:9999/udp/233.50.201.197:5140
 
-#EXTINF:-1 tvg-id="CCTV5plus" tvg-name="CCTV-5+体育赛事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5plus.png" group-title="央视",CCTV-5+体育赛事
-http://192.168.2.1:9999/rtp/233.50.201.220:5140
+#EXTINF:-1 tvg-id="CCTV5plus" tvg-name="CCTV-5+体育赛事" tvg-logo="http://yourhost/iptv-logo/CCTV5+.png",CCTV-5+体育赛事
+http://192.168.2.1:9999/udp/233.50.201.220:5140
 
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV-6电影" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6电影
-http://192.168.2.1:9999/rtp/233.50.201.198:5140
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV-6电影" tvg-logo="http://yourhost/iptv-logo/CCTV6.png",CCTV-6电影
+http://192.168.2.1:9999/udp/233.50.201.198:5140
 
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV-7国防军事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7国防军事
-http://192.168.2.1:9999/rtp/233.50.201.120:5140
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV-7国防军事" tvg-logo="http://yourhost/iptv-logo/CCTV7.png",CCTV-7国防军事
+http://192.168.2.1:9999/udp/233.50.201.120:5140
 
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV-8电视剧" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8电视剧
-http://192.168.2.1:9999/rtp/233.50.201.199:5140
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV-8电视剧" tvg-logo="http://yourhost/iptv-logo/CCTV8.png",CCTV-8电视剧
+http://192.168.2.1:9999/udp/233.50.201.199:5140
 
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV-9纪录片" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9纪录片
-http://192.168.2.1:9999/rtp/233.50.201.121:5140
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV-9纪录片" tvg-logo="http://yourhost/iptv-logo/CCTV9.png",CCTV-9纪录片
+http://192.168.2.1:9999/udp/233.50.201.121:5140
 
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV-10科教" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10科教
-http://192.168.2.1:9999/rtp/233.50.201.122:5140
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV-10科教" tvg-logo="http://yourhost/iptv-logo/CCTV10.png",CCTV-10科教
+http://192.168.2.1:9999/udp/233.50.201.122:5140
 
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV-11戏曲" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11戏曲
-http://192.168.2.1:9999/rtp/233.50.202.39:5140
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV-11戏曲" tvg-logo="http://yourhost/iptv-logo/CCTV11.png",CCTV-11戏曲
+http://192.168.2.1:9999/udp/233.50.202.39:5140
 
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV-12社会与法" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12社会与法
-http://192.168.2.1:9999/rtp/233.50.201.123:5140
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV-12社会与法" tvg-logo="http://yourhost/iptv-logo/CCTV12.png",CCTV-12社会与法
+http://192.168.2.1:9999/udp/233.50.201.123:5140
 
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV-13新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13新闻
-http://192.168.2.1:9999/rtp/233.50.201.246:5140
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV-13新闻" tvg-logo="http://yourhost/iptv-logo/CCTV13.png",CCTV-13新闻
+http://192.168.2.1:9999/udp/233.50.201.246:5140
 
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV-14少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14少儿
-http://192.168.2.1:9999/rtp/233.50.201.124:5140
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV-14少儿" tvg-logo="http://yourhost/iptv-logo/CCTV14.png",CCTV-14少儿
+http://192.168.2.1:9999/udp/233.50.201.124:5140
 
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV-15音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐
-http://192.168.2.1:9999/rtp/233.50.202.40:5140
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV-15音乐" tvg-logo="http://yourhost/iptv-logo/CCTV15.png",CCTV-15音乐
+http://192.168.2.1:9999/udp/233.50.202.40:5140
 
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV-16奥林匹克" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16奥林匹克
-http://192.168.2.1:9999/rtp/233.50.201.63:5140
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV-16奥林匹克" tvg-logo="http://yourhost/iptv-logo/CCTV16.png",CCTV-16奥林匹克
+http://192.168.2.1:9999/udp/233.50.201.63:5140
 
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV-17农业农村" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农业农村
-http://192.168.2.1:9999/rtp/233.50.200.113:5140
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV-17农业农村" tvg-logo="http://yourhost/iptv-logo/CCTV17.png",CCTV-17农业农村
+http://192.168.2.1:9999/udp/233.50.200.113:5140
 
-############ 卫视频道 ############
-#EXTINF:-1 tvg-id="Zhejiang" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
-http://192.168.2.1:9999/rtp/233.50.201.100:5140
+#EXTINF:-1 tvg-id="Zhejiang" tvg-name="浙江卫视" tvg-logo="http://yourhost/iptv-logo/zhejiang.png",浙江卫视
+http://192.168.2.1:9999/udp/233.50.201.100:5140
 
-#EXTINF:-1 tvg-id="DragonTV" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
-http://192.168.2.1:9999/rtp/233.50.201.125:5140
+#EXTINF:-1 tvg-id="Shenzhen" tvg-name="深圳卫视" tvg-logo="http://yourhost/iptv-logo/shenzhen.png",深圳卫视
+http://192.168.2.1:9999/udp/233.50.201.101:5140
 
-#EXTINF:-1 tvg-id="Hunan" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
-http://192.168.2.1:9999/rtp/233.50.201.103:5140
+#EXTINF:-1 tvg-id="Guangdong" tvg-name="广东卫视" tvg-logo="http://yourhost/iptv-logo/guangdong.png",广东卫视
+http://192.168.2.1:9999/udp/233.50.201.102:5140
 
-#EXTINF:-1 tvg-id="Tianjin" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
-http://192.168.2.1:9999/rtp/233.50.201.104:5140
+#EXTINF:-1 tvg-id="Hunan" tvg-name="湖南卫视" tvg-logo="http://yourhost/iptv-logo/hunan.png",湖南卫视
+http://192.168.2.1:9999/udp/233.50.201.103:5140
 
-#EXTINF:-1 tvg-id="Shandong" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
-http://192.168.2.1:9999/rtp/233.50.201.105:5140
+#EXTINF:-1 tvg-id="Tianjin" tvg-name="天津卫视" tvg-logo="http://yourhost/iptv-logo/tianjin.png",天津卫视
+http://192.168.2.1:9999/udp/233.50.201.104:5140
 
-#EXTINF:-1 tvg-id="Jiangsu" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
-http://192.168.2.1:9999/rtp/233.50.201.106:5140
+#EXTINF:-1 tvg-id="Shandong" tvg-name="山东卫视" tvg-logo="http://yourhost/iptv-logo/shandong.png",山东卫视
+http://192.168.2.1:9999/udp/233.50.201.105:5140
 
-#EXTINF:-1 tvg-id="Beijing" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
-http://192.168.2.1:9999/rtp/233.50.201.107:5140
+#EXTINF:-1 tvg-id="Jiangsu" tvg-name="江苏卫视" tvg-logo="http://yourhost/iptv-logo/jiangsu.png",江苏卫视
+http://192.168.2.1:9999/udp/233.50.201.106:5140
 
-#EXTINF:-1 tvg-id="Sichuan" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
-http://192.168.2.1:9999/rtp/233.50.201.139:5140
+#EXTINF:-1 tvg-id="Beijing" tvg-name="北京卫视" tvg-logo="http://yourhost/iptv-logo/beijing.png",北京卫视
+http://192.168.2.1:9999/udp/233.50.201.107:5140
 
-#EXTINF:-1 tvg-id="Hebei" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
-http://192.168.2.1:9999/rtp/233.50.201.140:5140
+#EXTINF:-1 tvg-id="Sichuan" tvg-name="四川卫视" tvg-logo="http://yourhost/iptv-logo/sichuan.png",四川卫视
+http://192.168.2.1:9999/udp/233.50.201.139:5140
 
-#EXTINF:-1 tvg-id="Liaoning" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
-http://192.168.2.1:9999/rtp/233.50.201.141:5140
+#EXTINF:-1 tvg-id="Hebei" tvg-name="河北卫视" tvg-logo="http://yourhost/iptv-logo/hebei.png",河北卫视
+http://192.168.2.1:9999/udp/233.50.201.140:5140
 
-#EXTINF:-1 tvg-id="Guizhou" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
-http://192.168.2.1:9999/rtp/233.50.201.142:5140
+#EXTINF:-1 tvg-id="Liaoning" tvg-name="辽宁卫视" tvg-logo="http://yourhost/iptv-logo/liaoning.png",辽宁卫视
+http://192.168.2.1:9999/udp/233.50.201.141:5140
 
-#EXTINF:-1 tvg-id="Chongqing" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
-http://192.168.2.1:9999/rtp/233.50.201.143:5140
+#EXTINF:-1 tvg-id="Guizhou" tvg-name="贵州卫视" tvg-logo="http://yourhost/iptv-logo/guizhou.png",贵州卫视
+http://192.168.2.1:9999/udp/233.50.201.142:5140
 
-#EXTINF:-1 tvg-id="Henan" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
-http://192.168.2.1:9999/rtp/233.50.201.144:5140
+#EXTINF:-1 tvg-id="Chongqing" tvg-name="重庆卫视" tvg-logo="http://yourhost/iptv-logo/chongqing.png",重庆卫视
+http://192.168.2.1:9999/udp/233.50.201.143:5140
 
-#EXTINF:-1 tvg-id="Jiangxi" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
-http://192.168.2.1:9999/rtp/233.50.201.145:5140
+#EXTINF:-1 tvg-id="Henan" tvg-name="河南卫视" tvg-logo="http://yourhost/iptv-logo/henan.png",河南卫视
+http://192.168.2.1:9999/udp/233.50.201.144:5140
 
-#EXTINF:-1 tvg-id="Dongnan" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
-http://192.168.2.1:9999/rtp/233.50.201.146:5140
+#EXTINF:-1 tvg-id="Jiangxi" tvg-name="江西卫视" tvg-logo="http://yourhost/iptv-logo/jiangxi.png",江西卫视
+http://192.168.2.1:9999/udp/233.50.201.145:5140
 
-#EXTINF:-1 tvg-id="Anhui" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
-http://192.168.2.1:9999/rtp/233.50.201.113:5140
+#EXTINF:-1 tvg-id="Dongnan" tvg-name="东南卫视" tvg-logo="http://yourhost/iptv-logo/dongnan.png",东南卫视
+http://192.168.2.1:9999/udp/233.50.201.146:5140
 
-#EXTINF:-1 tvg-id="Hubei" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
-http://192.168.2.1:9999/rtp/233.50.201.114:5140
+#EXTINF:-1 tvg-id="Anhui" tvg-name="安徽卫视" tvg-logo="http://yourhost/iptv-logo/anhui.png",安徽卫视
+http://192.168.2.1:9999/udp/233.50.201.113:5140
 
-#EXTINF:-1 tvg-id="Heilongjiang" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
-http://192.168.2.1:9999/rtp/233.50.201.115:5140
+#EXTINF:-1 tvg-id="Hubei" tvg-name="湖北卫视" tvg-logo="http://yourhost/iptv-logo/hubei.png",湖北卫视
+http://192.168.2.1:9999/udp/233.50.201.114:5140
 
-#EXTINF:-1 tvg-id="Shanghai" tvg-name="上海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghai.png" group-title="卫视",上海卫视
-http://192.168.2.1:9999/rtp/233.50.201.125:5140
+#EXTINF:-1 tvg-id="Heilongjiang" tvg-name="黑龙江卫视" tvg-logo="http://yourhost/iptv-logo/heilongjiang.png",黑龙江卫视
+http://192.168.2.1:9999/udp/233.50.201.115:5140
 
-#EXTINF:-1 tvg-id="Gansu" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
-http://192.168.2.1:9999/rtp/233.50.200.163:5140
+#EXTINF:-1 tvg-id="Dongfang" tvg-name="东方卫视" tvg-logo="http://yourhost/iptv-logo/dongfang.png",东方卫视
+http://192.168.2.1:9999/udp/233.50.201.125:5140
 
-#EXTINF:-1 tvg-id="Hainan" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hainan.png" group-title="卫视",海南卫视
-http://192.168.2.1:9999/rtp/233.50.200.165:5140
+#EXTINF:-1 tvg-id="Gansu" tvg-name="甘肃卫视" tvg-logo="http://yourhost/iptv-logo/gansu.png",甘肃卫视
+http://192.168.2.1:9999/udp/233.50.200.163:5140
 
-#EXTINF:-1 tvg-id="Guangxi" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
-http://192.168.2.1:9999/rtp/233.50.200.136:5140
+#EXTINF:-1 tvg-id="Hainan" tvg-name="海南卫视" tvg-logo="http://yourhost/iptv-logo/hainan.png",海南卫视
+http://192.168.2.1:9999/udp/233.50.200.165:5140
 
-#EXTINF:-1 tvg-id="Yunnan" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
-http://192.168.2.1:9999/rtp/233.50.200.115:5140
+#EXTINF:-1 tvg-id="Guangxi" tvg-name="广西卫视" tvg-logo="http://yourhost/iptv-logo/guangxi.png",广西卫视
+http://192.168.2.1:9999/udp/233.50.200.136:5140
 
-#EXTINF:-1 tvg-id="Jilin" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
-http://192.168.2.1:9999/rtp/233.50.202.42:5140
+#EXTINF:-1 tvg-id="Yunnan" tvg-name="云南卫视" tvg-logo="http://yourhost/iptv-logo/yunnan.png",云南卫视
+http://192.168.2.1:9999/udp/233.50.200.115:5140
 
-#EXTINF:-1 tvg-id="SanSha" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视",三沙卫视
-http://192.168.2.1:9999/rtp/233.50.200.175:5140
+#EXTINF:-1 tvg-id="Jilin" tvg-name="吉林卫视" tvg-logo="http://yourhost/iptv-logo/jilin.png",吉林卫视
+http://192.168.2.1:9999/udp/233.50.202.42:5140
 
-############ 浙江地方频道 ############
-#EXTINF:-1 tvg-id="ZJTV2" tvg-name="钱江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/local/qianjiang.png" group-title="浙江",钱江频道
-http://192.168.2.1:9999/rtp/233.50.201.132:5140
+#EXTINF:-1 tvg-id="Sansha" tvg-name="三沙卫视" tvg-logo="http://yourhost/iptv-logo/sansha.png",三沙卫视
+http://192.168.2.1:9999/udp/233.50.200.175:5140
 
-#EXTINF:-1 tvg-id="HZTV1" tvg-name="杭州综合" tvg-logo="http://epg.51zmt.top:8000/tb1/local/hangzhou1.png" group-title="浙江",杭州1综合
-http://192.168.2.1:9999/rtp/233.50.201.173:5140
+#EXTINF:-1 tvg-id="Qianjiang" tvg-name="钱江频道" tvg-logo="http://yourhost/iptv-logo/qianjiang.png",钱江频道
+http://192.168.2.1:9999/udp/233.50.201.132:5140
 
-#EXTINF:-1 tvg-id="HZTV2" tvg-name="杭州明珠" tvg-logo="http://epg.51zmt.top:8000/tb1/local/hangzhou2.png" group-title="浙江",杭州2明珠
-http://192.168.2.1:9999/rtp/233.50.201.174:5140
+#EXTINF:-1 tvg-id="ZhejiangEconomic" tvg-name="浙江经济生活" tvg-logo="http://yourhost/iptv-logo/qianjiang.png",浙江经济生活
+http://192.168.2.1:9999/udp/233.50.201.133:5140
 
-#EXTINF:-1 tvg-id="HZTV3" tvg-name="杭州生活" tvg-logo="http://epg.51zmt.top:8000/tb1/local/hangzhou3.png" group-title="浙江",杭州3生活
-http://192.168.2.1:9999/rtp/233.50.201.175:5140
+#EXTINF:-1 tvg-id="ZhejiangEducation" tvg-name="浙江教育" tvg-logo="http://yourhost/iptv-logo/qianjiang.png",浙江教育
+http://192.168.2.1:9999/udp/233.50.201.134:5140
 
-#EXTINF:-1 tvg-id="HZTV4" tvg-name="杭州影视" tvg-logo="http://epg.51zmt.top:8000/tb1/local/hangzhou4.png" group-title="浙江",杭州4影视
-http://192.168.2.1:9999/rtp/233.50.201.176:5140
+#EXTINF:-1 tvg-id="ZhejiangLife" tvg-name="浙江民生" tvg-logo="http://yourhost/iptv-logo/qianjiang.png",浙江民生
+http://192.168.2.1:9999/udp/233.50.201.136:5140
 
-#EXTINF:-1 tvg-id="HZTV5" tvg-name="杭州青少" tvg-logo="http://epg.51zmt.top:8000/tb1/local/hangzhou5.png" group-title="浙江",杭州5青少
-http://192.168.2.1:9999/rtp/233.50.201.177:5140
+#EXTINF:-1 tvg-id="ZhejiangNews" tvg-name="浙江新闻" tvg-logo="http://yourhost/iptv-logo/null.png",浙江新闻
+http://192.168.2.1:9999/udp/233.50.201.137:5140
 
-#EXTINF:-1 tvg-id="HZTV6" tvg-name="杭州导视" tvg-logo="http://epg.51zmt.top:8000/tb1/local/hangzhou6.png" group-title="浙江",杭州导视
+#EXTINF:-1 tvg-id="ZhejiangChildren" tvg-name="浙江少儿" tvg-logo="http://yourhost/iptv-logo/null.png",浙江少儿
+http://192.168.2.1:9999/udp/233.50.201.138:5140
+
+#EXTINF:-1 tvg-id="Hangzhou1" tvg-name="杭州1综合" tvg-logo="http://yourhost/iptv-logo/null.png",杭州1综合
+http://192.168.2.1:9999/udp/233.50.201.173:5140
+
+#EXTINF:-1 tvg-id="Hangzhou2" tvg-name="杭州2明珠" tvg-logo="http://yourhost/iptv-logo/null.png",杭州2明珠
+http://192.168.2.1:9999/udp/233.50.201.174:5140
+
+#EXTINF:-1 tvg-id="Hangzhou3" tvg-name="杭州3生活" tvg-logo="http://yourhost/iptv-logo/null.png",杭州3生活
+http://192.168.2.1:9999/udp/233.50.201.175:5140
+
+#EXTINF:-1 tvg-id="Hangzhou4" tvg-name="杭州4影视" tvg-logo="http://yourhost/iptv-logo/null.png",杭州4影视
+http://192.168.2.1:9999/udp/233.50.201.176:5140
+
+#EXTINF:-1 tvg-id="Hangzhou5" tvg-name="杭州5青少" tvg-logo="http://yourhost/iptv-logo/null.png",杭州5青少
+http://192.168.2.1:9999/udp/233.50.201.177:5140
+
+#EXTINF:-1 tvg-id="HangzhouGuide" tvg-name="杭州导视" tvg-logo="http://yourhost/iptv-logo/null.png",杭州导视
 http://192.168.2.1:9999/rtp/233.50.201.182:5140
 
-############ 特色频道 ############
-#EXTINF:-1 tvg-id="GAME" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="游戏",游戏风云
-http://192.168.2.1:9999/rtp/233.50.201.183:5140
+#EXTINF:-1 tvg-id="NingboTV1" tvg-name="宁波TV1" tvg-logo="http://yourhost/iptv-logo/null.png",宁波TV1
+http://192.168.2.1:9999/udp/233.50.201.168:5140
 
-#EXTINF:-1 tvg-id="HYYK" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="少儿",金鹰卡通
-http://192.168.2.1:9999/rtp/233.50.201.73:5140
+#EXTINF:-1 tvg-id="NingboTV2" tvg-name="宁波TV2" tvg-logo="http://yourhost/iptv-logo/null.png",宁波TV2
+http://192.168.2.1:9999/udp/233.50.201.178:5140
 
-#EXTINF:-1 tvg-id="FHD" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
-http://192.168.2.1:9999/rtp/233.50.200.191:5140
+#EXTINF:-1 tvg-id="NingboTV3" tvg-name="宁波TV3" tvg-logo="http://yourhost/iptv-logo/null.png",宁波TV3
+http://192.168.2.1:9999/udp/233.50.201.179:5140
 
-############ 港澳台频道 ############
-#EXTINF:-1 tvg-id="PhoenixCN" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
-http://192.168.2.1:9999/rtp/233.50.200.191:5140
+#EXTINF:-1 tvg-id="NingboTV4" tvg-name="宁波TV4" tvg-logo="http://yourhost/iptv-logo/null.png",宁波TV4
+http://192.168.2.1:9999/udp/233.50.201.180:5140
 
-#EXTINF:-1 tvg-id="PhoenixInfo" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
-http://192.168.2.1:9999/rtp/233.50.200.192:5140
+#EXTINF:-1 tvg-id="NingboTV5" tvg-name="宁波TV5" tvg-logo="http://yourhost/iptv-logo/null.png",宁波TV5
+http://192.168.2.1:9999/udp/233.50.201.181:5140
 
-#EXTINF:-1 tvg-id="CGTN" tvg-name="中国环球电视网" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cgtn.png" group-title="港澳台",CGTN
-http://192.168.2.1:9999/rtp/233.50.201.126:5140
+#EXTINF:-1 tvg-id="WenzhouNews" tvg-name="温州新闻" tvg-logo="http://yourhost/iptv-logo/null.png",温州新闻
+http://192.168.2.1:9999/udp/233.50.201.87:5140
 
-############ 数字付费 ############
-#EXTINF:-1 tvg-id="GameChannel" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/vip/youxifengyun.png" group-title="付费频道",游戏风云
-http://192.168.2.1:9999/rtp/233.50.201.183:5140
+#EXTINF:-1 tvg-id="QuzhouNews" tvg-name="衢州新闻" tvg-logo="http://yourhost/iptv-logo/null.png",衢州新闻
+http://192.168.2.1:9999/udp/233.50.201.155:5140
 
-#EXTINF:-1 tvg-id="Fishing" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/vip/kuailechuidiao.png" group-title="付费频道",快乐垂钓
-http://192.168.2.1:9999/rtp/233.50.201.109:5140
+#EXTINF:-1 tvg-id="ShaoxingNews" tvg-name="绍兴新闻" tvg-logo="http://yourhost/iptv-logo/null.png",绍兴新闻
+http://192.168.2.1:9999/udp/233.50.201.156:5140
 
-#EXTINF:-1 tvg-id="TeaTV" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/vip/chapindao.png" group-title="付费频道",茶频道
-http://192.168.2.1:9999/rtp/233.50.201.188:5140
+#EXTINF:-1 tvg-id="Taizhou1" tvg-name="台州-1" tvg-logo="http://yourhost/iptv-logo/null.png",台州-1
+http://192.168.2.1:9999/udp/233.50.201.157:5140
 
-############ 其他频道 ############
-#EXTINF:-1 tvg-id="ZJTV-4K" tvg-name="中国蓝4K" tvg-logo="http://epg.51zmt.top:8000/tb1/other/zgblue4k.png" group-title="4K专区",中国蓝4K
-http://192.168.2.1:9999/rtp/233.50.201.108:5140
+#EXTINF:-1 tvg-id="HuzhouPublic" tvg-name="湖州公共" tvg-logo="http://yourhost/iptv-logo/null.png",湖州公共
+http://192.168.2.1:9999/udp/233.50.201.158:5140
 
-#EXTINF:-1 tvg-id="Unknown" tvg-name="测试频道" group-title="其他",信号测试频道
-http://192.168.2.1:9999/rtp/233.50.201.224:5140
+#EXTINF:-1 tvg-id="JinhuaNews" tvg-name="金华新闻" tvg-logo="http://yourhost/iptv-logo/null.png",金华新闻
+http://192.168.2.1:9999/udp/233.50.201.161:5140
+
+#EXTINF:-1 tvg-id="LishuiNews" tvg-name="丽水新闻" tvg-logo="http://yourhost/iptv-logo/null.png",丽水新闻
+http://192.168.2.1:9999/udp/233.50.201.162:5140
+
+#EXTINF:-1 tvg-id="JiaxingNews" tvg-name="嘉兴新闻" tvg-logo="http://yourhost/iptv-logo/null.png",嘉兴新闻
+http://192.168.2.1:9999/udp/233.50.201.163:5140
+
+#EXTINF:-1 tvg-id="TongxiangNews" tvg-name="桐乡新闻" tvg-logo="http://yourhost/iptv-logo/null.png",桐乡新闻
+http://192.168.2.1:9999/udp/233.50.201.169:5140
+
+#EXTINF:-1 tvg-id="HangzhouGuide" tvg-name="杭州导视" tvg-logo="http://yourhost/iptv-logo/null.png",杭州导视
+http://192.168.2.1:9999/udp/233.50.201.182:5140
+
+#EXTINF:-1 tvg-id="ZhejiangRecord" tvg-name="之江记录" tvg-logo="http://yourhost/iptv-logo/zjjl.png",之江记录
+http://192.168.2.1:9999/udp/233.50.202.25:5140
+
+#EXTINF:-1 tvg-id="QuzhouNewsComposite" tvg-name="衢州新闻综合" tvg-logo="http://yourhost/iptv-logo/null.png",衢州新闻综合
+http://192.168.2.1:9999/udp/233.50.202.11:5140
+
+#EXTINF:-1 tvg-id="QuzhouPublic" tvg-name="衢州公共" tvg-logo="http://yourhost/iptv-logo/null.png",衢州公共
+http://192.168.2.1:9999/udp/233.50.202.12:5140
+
+#EXTINF:-1 tvg-id="YuhangNews" tvg-name="余杭新闻" tvg-logo="http://yourhost/iptv-logo/null.png",余杭新闻
+http://192.168.2.1:9999/rtp/233.50.201.159:5140
+
+#EXTINF:-1 tvg-id="YouyouBaby" tvg-name="优优宝贝" tvg-logo="http://yourhost/iptv-logo/yybb.jpg",优优宝贝
+http://192.168.2.1:9999/udp/233.50.202.24:5140
+
+#EXTINF:-1 tvg-id="NewVisionHD" tvg-name="新视觉HD" tvg-logo="http://yourhost/iptv-logo/null.png",新视觉HD
+http://192.168.2.1:9999/udp/233.50.201.244:5140
+
+#EXTINF:-1 tvg-id="JoyTheater" tvg-name="欢笑剧场" tvg-logo="http://yourhost/iptv-logo/null.png",欢笑剧场
+http://192.168.2.1:9999/udp/233.50.201.189:5140
+
+#EXTINF:-1 tvg-id="UrbanTheater" tvg-name="都市剧场" tvg-logo="http://yourhost/iptv-logo/null.png",都市剧场
+http://192.168.2.1:9999/udp/233.50.201.190:5140
+
+#EXTINF:-1 tvg-id="LegalHeaven" tvg-name="法制天地" tvg-logo="http://yourhost/iptv-logo/null.png",法制天地
+http://192.168.2.1:9999/udp/233.50.201.191:5140
+
+#EXTINF:-1 tvg-id="AnimeShow" tvg-name="动漫秀场" tvg-logo="http://yourhost/iptv-logo/null.png",动漫秀场
+http://192.168.2.1:9999/udp/233.50.201.184:5140
+
+#EXTINF:-1 tvg-id="GameFengyun" tvg-name="游戏风云" tvg-logo="http://yourhost/iptv-logo/youxifengyun.png",游戏风云
+http://192.168.2.1:9999/udp/233.50.201.183:5140
+
+#EXTINF:-1 tvg-id="LeYou" tvg-name="乐游" tvg-logo="http://yourhost/iptv-logo/null.png",乐游
+http://192.168.2.1:9999/udp/233.50.201.185:5140
+
+#EXTINF:-1 tvg-id="GoldenClass" tvg-name="金色学堂" tvg-logo="http://yourhost/iptv-logo/null.png",金色学堂
+http://192.168.2.1:9999/udp/233.50.201.186:5140
+
+#EXTINF:-1 tvg-id="LifeFashion" tvg-name="生活时尚" tvg-logo="http://yourhost/iptv-logo/null.png",生活时尚
+http://192.168.2.1:9999/udp/233.50.201.187:5140
+
+#EXTINF:-1 tvg-id="TeaChannel" tvg-name="茶频道" tvg-logo="http://yourhost/iptv-logo/chapindao.png",茶频道
+http://192.168.2.1:9999/udp/233.50.201.188:5140
+
+#EXTINF:-1 tvg-id="HappyFishing" tvg-name="快乐垂钓" tvg-logo="http://yourhost/iptv-logo/kuailechuidiao.png",快乐垂钓
+http://192.168.2.1:9999/udp/233.50.201.109:5140
+
+#EXTINF:-1 tvg-id="GoodEasyGo" tvg-name="好易购" tvg-logo="http://yourhost/iptv-logo/null.png",好易购
+http://192.168.2.1:9999/udp/233.50.201.248:5140
+
+#EXTINF:-1 tvg-id="HomeShopping" tvg-name="家有购物" tvg-logo="http://yourhost/iptv-logo/null.png",家有购物
+http://192.168.2.1:9999/udp/233.50.201.90:5140
+
+#EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" tvg-logo="http://yourhost/iptv-logo/null.png",BesTV
+http://192.168.2.1:9999/udp/233.50.201.201:5140
+
+#EXTINF:-1 tvg-id="GameChannel" tvg-name="游戏频道" tvg-logo="http://yourhost/iptv-logo/null.png",游戏频道
+http://192.168.2.1:9999/udp/233.50.201.207:5140
+
+#EXTINF:-1 tvg-id="GameChannel2" tvg-name="游戏频道" tvg-logo="http://yourhost/iptv-logo/null.png",游戏频道
+http://192.168.2.1:9999/udp/233.50.201.215:5140
+
+#EXTINF:-1 tvg-id="UnknownChannel" tvg-name="未知频道" tvg-logo="http://yourhost/iptv-logo/null.png",未知频道
+http://192.168.2.1:9999/udp/233.50.201.224:5140
+
+#EXTINF:-1 tvg-id="ZhejiangLive" tvg-name="中国蓝直播" tvg-logo="http://yourhost/iptv-logo/null.png",中国蓝直播
+http://192.168.2.1:9999/udp/233.50.201.108:5140
+
+#EXTINF:-1 tvg-id="QingcaiSports" tvg-name="晴彩竞技" tvg-logo="http://yourhost/iptv-logo/yybb.jpg",晴彩竞技
+http://192.168.2.1:9999/udp/233.50.202.26:5140
+
+#EXTINF:-1 tvg-id="QingcaiBasketball" tvg-name="晴彩篮球" tvg-logo="http://yourhost/iptv-logo/yybb.jpg",晴彩篮球
+http://192.168.2.1:9999/udp/233.50.202.27:5140
+
+#EXTINF:-1 tvg-id="QingcaiYouth" tvg-name="晴彩青少" tvg-logo="http://yourhost/iptv-logo/yybb.jpg",晴彩青少
+http://192.168.2.1:9999/udp/233.50.202.28:5140
+
+#EXTINF:-1 tvg-id="QingcaiSquareDance" tvg-name="晴彩广场舞" tvg-logo="http://yourhost/iptv-logo/yybb.jpg",晴彩广场舞
+http://192.168.2.1:9999/udp/233.50.202.29:5140
+
+#EXTINF:-1 tvg-id="ZhejiangVoice" tvg-name="浙江之声广播" tvg-logo="http://yourhost/iptv-logo/null.png",浙江之声广播
+http://192.168.2.1:9999/udp/233.50.201.79:5140
+
+#EXTINF:-1 tvg-id="ZhejiangNewsRadio" tvg-name="浙江新闻广播" tvg-logo="http://yourhost/iptv-logo/null.png",浙江新闻广播
+http://192.168.2.1:9999/udp/233.50.201.80:5140
+
+#EXTINF:-1 tvg-id="EconomicRadio" tvg-name="经济频道广播" tvg-logo="http://yourhost/iptv-logo/null.png",经济频道广播
+http://192.168.2.1:9999/udp/233.50.201.81:5140
+
+#EXTINF:-1 tvg-id="MusicFM" tvg-name="音乐调频广播" tvg-logo="http://yourhost/iptv-logo/null.png",音乐调频广播
+http://192.168.2.1:9999/udp/233.50.201.82:5140
+
+#EXTINF:-1 tvg-id="TrafficRadio" tvg-name="交通之声广播" tvg-logo="http://yourhost/iptv-logo/null.png",交通之声广播
+http://192.168.2.1:9999/udp/233.50.201.83:5140
+
+#EXTINF:-1 tvg-id="TravelRadio" tvg-name="旅游之声广播" tvg-logo="http://yourhost/iptv-logo/null.png",旅游之声广播
+http://192.168.2.1:9999/udp/233.50.201.84:5140
+
+#EXTINF:-1 tvg-id="CityRadio" tvg-name="城市之声广播" tvg-logo="http://yourhost/iptv-logo/null.png",城市之声广播
+http://192.168.2.1:9999/udp/233.50.201.85:5140
+
+#EXTINF:-1 tvg-id="LifeInfoRadio" tvg-name="民生资讯广播" tvg-logo="http://yourhost/iptv-logo/null.png",民生资讯广播
+http://192.168.2.1:9999/udp/233.50.201.86:5140
